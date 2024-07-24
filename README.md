@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋, I'm Mustafa
 
 <!--
 **ConsumedKing/ConsumedKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on a hospital system backend using django
+🌱 I’m currently learning django, DRF
+👯 I’m looking to collaborate on djagno related projects
+💬 Ask me about anything : https://x.com/ConsumedKing1
+📫 How to reach me: consumedking1@gmail.com
+😄 I go by : consumedking, cyberboy
