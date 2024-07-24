@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a hospital system backend using django \\
-🌱 I’m currently learning django, DRF \\
-👯 I’m looking to collaborate on djagno related projects \\
-💬 Ask me about anything : https://x.com/ConsumedKing1 \\
-📫 How to reach me: consumedking1@gmail.com \\
-😄 I go by : consumedking, cyberboy \\
+🔭 I’m currently working on a hospital system backend using django <br/>
+🌱 I’m currently learning django, DRF <br/>
+👯 I’m looking to collaborate on djagno related projects <br/>
+💬 Ask me about anything : https://x.com/ConsumedKing1 <br/>
+📫 How to reach me: consumedking1@gmail.com <br/>
+😄 I go by : consumedking, cyberboy <br/>
