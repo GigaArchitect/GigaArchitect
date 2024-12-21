@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning django, DRF
 - 👯 I’m looking to collaborate on djagno related projects
-- 💬 Ask me about anything : https://x.com/Mustafa__Nassar
+- 💬 Ask me about anything : https://x.com/consumedprince
 - 📫 How to reach me: consumedking1@gmail.com
 - 😄 I go by : consumedking, cyberboy
