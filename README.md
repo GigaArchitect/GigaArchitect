@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything : https://x.com/consumedprince
 - 📫 How to reach me: consumedking1@gmail.com
 - 😄 I go by : consumedking, cyberboy
-- 💻 Programming Languages I Know : C/C++ / Python / Java
+- 💻 Programming Languages I Know : C/C++, Python, Java
 - 📚 Currently Reading : OSTEP
