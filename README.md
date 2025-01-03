@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: consumedking1@gmail.com
 - 😄 I go by : consumedking, cyberboy
 - 💻 Programming Languages I Know : C/C++, Python, Java
-- 📚 Currently Reading : OSTEP, SQL Performance
+- 📚 Currently Reading : OSTEP, High Performance MySQL
