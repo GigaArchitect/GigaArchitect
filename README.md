@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning django, DRF
+- 🌱 I’m currently deepening my knowledge in django, DRF
 - 👯 I’m looking to collaborate on djagno related projects
 - 💬 Ask me about anything : https://x.com/consumedprince
 - 📫 How to reach me: consumedking1@gmail.com
