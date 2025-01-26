@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: consumedking1@gmail.com
 - 😄 I go by : consumedking, cyberboy
 - 💻 Programming Languages I Know : C/C++, Python, Java
-- 📚 Shelf : OSTEP , SQL Perofrmace
+- 📚 Shelf : OSTEP , SQL Performace
 - 📚 Currently Reading : Learning React Modern Patterns
