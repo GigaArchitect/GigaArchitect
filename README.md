@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: consumedking1@gmail.com
 - 😄 I go by : consumedking, cyberboy
 - 💻 Programming Languages I Know : C/C++, Python, Java
-- 📚 Shelf : OSTEP , SQL Performace, CSS Mastery
+- 📚 Shelf : OSTEP , SQL Performace , CSS Mastery , Django For Beginners , Two Scoops of Django (Certian Chapters about Proxy Models)
 - 📚 Currently Reading : Learning React Modern Patterns
