@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything : https://x.com/consumedprince
 - 📫 How to reach me: consumedking1@gmail.com
 - 😄 I go by : consumedking, cyberboy
-- 💻 Programming Languages I Know : C/C++, Python, Java
+- 💻 Programming Languages I Know : C/C++, Python, Java & Javascript
 - 📚 Shelf : OSTEP , SQL Performace , CSS Mastery , Django For Beginners , Two Scoops of Django (Certian Chapters about Proxy Models)
 - 📚 Currently Reading : Learning React Modern Patterns
